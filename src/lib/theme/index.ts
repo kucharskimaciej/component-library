@@ -20,3 +20,4 @@ export const qualioTheme = extendTheme({
   },
   space: spacing,
 });
+
